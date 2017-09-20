@@ -122,3 +122,6 @@ Style/FormatString:
 
 Rails/Output:
   Enabled: false
+
+Metrics/BlockLength:
+  Enabled: false
